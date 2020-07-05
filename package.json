@@ -1,5 +1,5 @@
 {
-  "name": "xapi-roomkit-macro-debugger",
+  "name": "xapi-roomkit-macro-debugging",
   "version": "0.0.1",
   "description": "Debug your macros in Visual Studio Code using the Node.js and `jsxapi`",
   "scripts": {},
