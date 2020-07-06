@@ -68,6 +68,8 @@ And you will be able to:
 
 4. Run `npm install` in the directory (only once).
 
+5. Set URL and credentials for your Room Kit device in the `.env` file.
+
 ### Yeoman template
 
 <img src="https://raw.githubusercontent.com/yeoman/media/master/optimized/yeoman-1.svg" height="100px" />
